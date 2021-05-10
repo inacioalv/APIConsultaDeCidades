@@ -17,18 +17,20 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 -[Spring](https://spring.io/)
-- [JPA](https://spring.io/projects/spring-data-jpa)
-- [PostgreSQL Driver](https://jdbc.postgresql.org/)
+-[JPA](https://spring.io/projects/spring-data-jpa)
+-[PostgreSQL Driver](https://jdbc.postgresql.org/)
 -[Lombok](https://projectlombok.org/)
 
 ## 💻 Projeto
 
 O projeto tem como objetivo realizar uma buscar das localidades e realizar calculo de distancia entrem as cidades.
 
-#DataBase
+
+## DataBase
 <a href="https://github.com/chinnonsantos/sql-paises-estados-cidades/tree/master/PostgreSQL">Data</a>
 
-CREATE EXTENSION cube; 
+CREATE EXTENSION cube;
+<br/>
 CREATE EXTENSION earthdistance;
 
 ## :hammer: Para executar o projeto no terminal, digite o seguinte comando:
