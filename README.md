@@ -6,6 +6,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-DataBase">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -16,10 +17,10 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
--[Spring](https://spring.io/)
--[JPA](https://spring.io/projects/spring-data-jpa)
--[PostgreSQL Driver](https://jdbc.postgresql.org/)
--[Lombok](https://projectlombok.org/)
+- [Spring](https://spring.io/)
+- [JPA](https://spring.io/projects/spring-data-jpa)
+- [PostgreSQL Driver](https://jdbc.postgresql.org/)
+- [Lombok](https://projectlombok.org/)
 
 ## 💻 Projeto
 
